@@ -1,4 +1,3 @@
-
 var canvas = new fabric.Canvas("myCanvas");
 
 ball_x = 0;
